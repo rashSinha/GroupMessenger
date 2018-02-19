@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_97e4a77e21ba70d35f96d7a4973dd6122a127762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_8fb89573890c42bfde59a0e485e4ad5f07d04368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_3045a384b3cf66b77282a9c7822e1144a8f35799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_6152e09c351423449be59e6de2a08646f573ddb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_97e4a77e21ba70d35f96d7a4973dd6122a127762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_59056f2701b3221c988eb518fb0181cb9d0cafb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_8fb89573890c42bfde59a0e485e4ad5f07d04368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/rashmils/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_70122a2d497be6bc6311ec4d2dbfa9c24971e80d.jar" />
+    </item>
+
+</items>
